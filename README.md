@@ -1,6 +1,6 @@
 ## tidyup
 
-This tool is moving and categorizing your files into folders automatically and setting up your home directory
+This tool is automatically moving and categorizing your files into main folders and setting up your home directory
 
 ```
 /home/a.rs
